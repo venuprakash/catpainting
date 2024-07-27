@@ -1,4 +1,4 @@
-<h1>Cat Painting</h1>
+<h1>FREECODECAMP - Cat Painting</h1>
 
 <h3>https://venuprakash.github.io/catpainting/</h3>
 
